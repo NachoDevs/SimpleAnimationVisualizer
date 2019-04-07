@@ -1,0 +1,3 @@
+﻿  main.cpp
+f:\dev\animationvisualizertool\src\main.cpp(112): warning C4101: 'frameStart': unreferenced local variable
+  AnimationVisualizerTool.vcxproj -> F:\dev\AnimationVisualizerTool\Debug\AnimationVisualizerTool.exe

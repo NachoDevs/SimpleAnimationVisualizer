@@ -1,0 +1,8 @@
+﻿  main.cpp
+f:\dev\animationvisualizertool\src\main.cpp(112): warning C4101: 'frameStart': unreferenced local variable
+  Sprite.cpp
+  Timer.cpp
+  Generating code
+  All 143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AnimationVisualizerTool.vcxproj -> F:\dev\AnimationVisualizerTool\Release\AnimationVisualizerTool.exe
